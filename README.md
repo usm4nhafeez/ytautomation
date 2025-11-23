@@ -6,8 +6,13 @@ An automated YouTube content creation system that generates AI-focused education
 
 Check out videos created by this automation:
 
-- **Long-form lesson**: [Decentralized AI: Building Robust and Scalable Systems](https://youtu.be/4Hc7yCkpALQ?si=6P1XADmtAQQGBt4z)
-- **YouTube Short**: [Quick AI Tip](https://youtube.com/shorts/PcHtECKCCnE?si=ZqQ9dPtmr_A-NLeS)
+**Long-form lesson:**
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/4Hc7yCkpALQ" title="Decentralized AI: Building Robust and Scalable Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**YouTube Short:**
+
+<iframe width="315" height="576" src="https://www.youtube.com/embed/PcHtECKCCnE" title="Decentralized AI builds robust, private, and scalable smart systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 🚀 Features
 
@@ -99,12 +104,17 @@ PEXELS_API_KEY=your_pexels_api_key_here
    - User support email: Your email
    - Developer contact: Your email
 4. Click **Save and Continue**
-5. **Add Test Users**:
-   - Click **Add Users**
-   - Enter the Google account email that owns your YouTube channel
-   - Click **Save**
 
-#### Step 3: Create OAuth Client ID
+#### Step 3: Add Test Users
+
+1. Go to [OAuth Audience Configuration](https://console.cloud.google.com/auth/audience) (or **APIs & Services → OAuth consent screen → Test users**)
+2. Click **Add Users**
+3. Enter the Google account email that owns your YouTube channel
+4. Click **Save**
+
+> **Important**: Only accounts added as test users can authenticate while the app is in testing mode.
+
+#### Step 4: Create OAuth Client ID
 
 1. Go to **APIs & Services → Credentials**
 2. Click **+ CREATE CREDENTIALS → OAuth client ID**
