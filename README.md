@@ -2,6 +2,8 @@
 
 An automated YouTube content creation system that generates AI-focused educational videos using Google's Gemini API. The system creates both long-form lessons and YouTube Shorts, complete with voiceovers, visuals, and automatic uploads.
 
+https://github.com/user-attachments/assets/1b18fb79-86f5-4e02-8b8c-8cab20ede8e0
+
 ## 🎥 Sample Output
 
 Check out videos created by this automation:
