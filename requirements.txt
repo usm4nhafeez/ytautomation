@@ -16,3 +16,6 @@ Pillow
 
 # ✅ For loading environment variables from .env file
 python-dotenv
+
+# ✅ For YouTube search New Content Plan
+yt-dlp
