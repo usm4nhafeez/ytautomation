@@ -6,13 +6,9 @@ An automated YouTube content creation system that generates AI-focused education
 
 Check out videos created by this automation:
 
-**Long-form lesson:**
+- **Long-form lesson**: [Decentralized AI: Building Robust and Scalable Systems](https://youtu.be/4Hc7yCkpALQ)
+- **YouTube Short**: [Quick AI Tip](https://youtube.com/shorts/PcHtECKCCnE)
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/4Hc7yCkpALQ" title="Decentralized AI: Building Robust and Scalable Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**YouTube Short:**
-
-<iframe width="315" height="576" src="https://www.youtube.com/embed/PcHtECKCCnE" title="Decentralized AI builds robust, private, and scalable smart systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 🚀 Features
 
